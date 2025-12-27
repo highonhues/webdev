@@ -9,7 +9,7 @@
 // increment the count variable when the button is clicked (log it out)
 // change the count-el in the HTML to reflect the new count
 
-count =0 
+let count =0 
 function increment(){
     console.log("button was clicked. Count changed from ",count)
     count +=1
